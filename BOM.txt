@@ -1,0 +1,23 @@
+This is the Build of Materials for Meatcam!
+V0.1
+
+Purchased Parts
+1x Rasberry Pi Model B w/ 512MB of ram http://www.adafruit.com/products/998
+
+1x Logitech c525 Webcam http://www.amazon.com/Logitech-Webcam-Portable-Calling-Autofocus/dp/B004WO8HQ4/ref=sr_1_1?ie=UTF8&qid=1390862719&sr=8-1&keywords=logitech+c525
+
+1x Rasberry Pi Battery: http://www.adafruit.com/products/1565
+
+1x Momentary Switch 
+
+1x Wifi Dongle for Rasberry Pi: http://www.adafruit.com/products/814
+
+
+1x 0.5"x 0.5" mirror
+
+Some superglue or epoxy
+
+Printed parts: 
+1x Bottom Case 
+1x Top Case
+2x Glasses Clips
